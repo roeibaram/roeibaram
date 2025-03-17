@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://roeibaram.github.io/](https://roeibaram.github.io/)
 
-- 📫 How to reach me **roeibaram37@gmail.com**
-
 - 📄 Know about my experiences [link](link)
 
 - ⚡ Fun fact **i traveled over 22 times between 2018-2020**
